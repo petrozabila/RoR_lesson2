@@ -203,7 +203,7 @@ end
 end
 
 
-pet = Pet.new 'Khamlo'
+pet = Pet.new 'Buddy'
 pet.help
 pet.walk
 pet.wash
